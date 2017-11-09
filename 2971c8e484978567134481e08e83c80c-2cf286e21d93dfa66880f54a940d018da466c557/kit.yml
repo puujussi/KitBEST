@@ -1,0 +1,12 @@
+# Copy the kit code below into the kits section in your config.yml file
+kits:
+  jonne:
+    delay: 60
+    items:
+    - IRON_SWORD 1
+    - LEATHER_HELMET 1 color:10511680
+    - LEATHER_CHESTPLATE 1 color:10511680
+    - LEATHER_LEGGINGS 1 color:10511680
+    - LEATHER_BOOTS 1 color:10511680
+    - BOW 1
+    - ARROW 64
